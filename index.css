@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.head{
+    background-image: url(/images/WhatsApp\ Image\ 2022-02-09\ at\ 19.41.22.jpeg);
+    background-repeat: no-repeat;
+    background-position: cover;
+    height: 100vh;
+    color: blueviolet;
+}
+.nav-area{
+    align-items: center;
+}
+.nav-area ul{
+    display: flex;
+    text-decoration: none;
+    padding: 40px;
+    justify-content: space-between;
+    
+}
+.me{
+    margin-bottom: 30px;
+}
